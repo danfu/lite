@@ -7,7 +7,7 @@
 </tr>
 <!-- BEGIN article -->
 <tr>
-<td>{article_id}<td>
+<td>{article_id}</td>
 <td>{article_name}</td>
 </tr>
 <!-- END article -->
